@@ -1,6 +1,8 @@
 # synent-task6-Customer-Segmentation-Kanksha
 # Customer Segmentation using K-Means Clustering
 
+Video Link: https://drive.google.com/file/d/19koYl91dQWjwCQ2CgaLkKfQ9MlrwOiD5/view?usp=drive_link
+
 ## Overview
 This project focuses on customer segmentation using the K-Means Clustering machine learning algorithm on the Mall Customer dataset. The goal is to group customers based on purchasing behavior.
 
